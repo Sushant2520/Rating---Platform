@@ -1,6 +1,4 @@
-# Rating---Platform
-
-# Rating Platform
+# Rating-Platform
 
 A full-stack web application that allows users to submit ratings for stores registered on the platform. The project is built as part of a FullStack Intern Coding Challenge.
 
